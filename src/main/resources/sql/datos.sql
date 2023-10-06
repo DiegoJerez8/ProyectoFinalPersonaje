@@ -1,0 +1,11 @@
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('1', 'Mario', 'Masculino', '30', '5');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('2', 'Luigi', 'Masculino', '31', '6');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('3', 'boo', 'No binario', '3000', '7');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('4', 'Peach', 'Femenino', '28', '5');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('5', 'Yoshi', 'Masculino', '1', '6');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('6', 'Annie', 'Femenino', '8', '1');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('7', 'Franklin', 'Masculino', '26', '3');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('8', 'Trevor', 'Masculino', '48', '3');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('9', 'Michael', 'Masculino', '46', '3');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('10', 'Terrorista', 'Masculino', '30', '2');
+INSERT INTO `proyectofinal`.`personaje` (`idpersonaje`, `nombrepersonaje`, `genero`, `edad`, `idvideojuego`) VALUES ('11', 'Anti-Terrorista', 'Masculino', '35', '2');
